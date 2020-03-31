@@ -5,7 +5,7 @@ namespace Coffe1
 
         public virtual int Price()
         {
-            return 20;
+            return 50;
         }
         
         public override string ToString()
